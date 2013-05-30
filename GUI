@@ -15,7 +15,6 @@ import java.awt.*;
 import javax.swing.*;
 import javax.swing.border.*;
 import java.io.IOException;
-ifj;sadlkfj;sadlfjsd
 public class pong_gui extends JFrame implements ActionListener
 {
     JButton button = new JButton();
